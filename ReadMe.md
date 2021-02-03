@@ -1,8 +1,8 @@
 Getting and Cleanning Data Assignment
 =====================================
 
--   This Github repository is a submission for the Getting and Cleaning
-    Data course project.\*
+*This Github repository is a submission for the Getting and Cleaning
+Data course project.*
 
 Background
 ----------
