@@ -40,7 +40,7 @@ Introduction to the files
 *Human Activity Recognition Using Smartphones*
 
 **Files**  
-1. `run_analysis.R` performs the data preparation and then followed by
+- `run_analysis.R` performs the data preparation and then followed by
 the 5 steps required as described in the course project’s definition:  
 - Merges the training and the test sets to create one data set.  
 - Extracts only the measurements on the mean and standard deviation for
@@ -52,9 +52,9 @@ set.
 set with the average of each variable for each activity and each
 subject.
 
-1.  `myTidyData.txt` is the cleaned up data after going through all the
+-   `myTidyData.txt` is the cleaned up data after going through all the
     sequences described above.
 
-2.  `CodeBook.md` a code book that describes the variables, the data,
+-   `CodeBook.md` a code book that describes the variables, the data,
     and any transformations or work that I performed to clean up the
     data.
